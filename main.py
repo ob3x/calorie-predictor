@@ -41,7 +41,3 @@ def predict(data: PredictionInput) -> dict[str, str | float]:
             status_code=500,
             detail=str(e)
         )
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app)
