@@ -14,8 +14,8 @@ age – user's age.
 After providing the required parameters, the model returns an estimated number of calories burned during the workout.
 
 ## Technologies : 
--Python
--FastAPI
+-**Python**
+-**FastAPI**
 -Scikit-learn
 -Pandas
 -Numpy
