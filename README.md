@@ -17,7 +17,7 @@ After providing the required parameters, the model returns an estimated number o
 Python, FastAPI, Scikit-learn, Pandas, Numpy, Docker, Pydantic, Joblib
 
 ## Running the application : 
-1. Clone the repository - `git clone [<repo_url>](https://github.com/ob3x/calorie-predictor)`
+1. Clone the repository - `git clone https://github.com/ob3x/calorie-predictor`
 2. Build the Docker image - `docker build -t mlproject .`
 3. Run the container - `docker run -p 8000:8000 mlproject`
 4. Open the API documentation - `http://localhost:8000/docs`
