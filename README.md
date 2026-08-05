@@ -14,14 +14,7 @@ age – user's age.
 After providing the required parameters, the model returns an estimated number of calories burned during the workout.
 
 ## Technologies : 
--**Python**
--**FastAPI**
--Scikit-learn
--Pandas
--Numpy
--Docker
--Pydantic
--Joblib
+Python, FastAPI, Scikit-learn, Pandas, Numpy, Docker, Pydantic, Joblib
 
 ## Running the application : 
 1. Clone the repository - git clone [<repo_url>](https://github.com/ob3x/calorie-predictor)
