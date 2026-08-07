@@ -18,8 +18,8 @@ Python, FastAPI, Scikit-learn, Pandas, Numpy, Docker, Pydantic, Joblib
 
 ## Running the application : 
 1. Clone the repository - `git clone https://github.com/ob3x/calorie-predictor`
-2. Build the Docker image - `docker build -t mlproject .`
-3. Go to the folder - `cd .\calorie-predictor\`
+2. Go to the folder - `cd calorie-predictor`
+3. Build the Docker image - `docker build -t mlproject .`
 4. Run the container - `docker run -p 8000:8000 mlproject`
 5. Open the API documentation - `http://localhost:8000/docs`
 
